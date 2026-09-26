@@ -1,13 +1,6 @@
-# Principal informations
-name = "snt-chapter"
-main = "index.js"
-compatibility_date = "2026-08-26"
-workers_dev = true
-compatibility_flags = ["nodejs_compat"]
-
 # Static site
 [assets]
-directory = "./src/frontend"
+directory = "./"
 binding = "ASSETS"
 
 # Observability
