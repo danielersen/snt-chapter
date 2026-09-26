@@ -1,7 +1,6 @@
 # Static site
 [assets]
 directory = "./"
-binding = "ASSETS"
 
 # Observability
 [observability]
